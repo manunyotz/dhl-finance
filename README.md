@@ -77,6 +77,8 @@ A dashboard summarises invoices on hold, held value, missing evidence, ageing an
 - Simplified on purpose: no ERP system, no tax, no foreign exchange revaluation, no partial payments.
 - This demonstrates process thinking and control logic, not experience with a specific accounting system.
 
+## Known Issues
+- Ageing summary excluded not-overdue invoices due to a label mismatch, found by reconciling to the register. Fix planned in module 4.
 ---
 
 ## Tools
