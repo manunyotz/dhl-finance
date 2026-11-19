@@ -25,7 +25,7 @@ Each module below practises one of those skills, using tools I already work with
 |---|---|---|---|---|
 | 01 | Shipment ledger: journal, trial balance, shipment P&L | RTR: double-entry, balancing, margins | Done | `01_shipment_ledger.xlsx` |
 | 02 | Supplier invoice matching and ageing | PTP: three-way match, holds, ageing | Done | `02_ptp_matching.xlsx` |
-| 03 | Budget vs actual and variance analysis | Controlling | Planned | |
+| 03 | Budget vs actual and variance analysis | Controlling | Done | `03_budget_vs_actual.xlsx` |
 | 04 | Reconciliation and validation checks | Data validation (Excel, MySQL) | Planned | |
 | 05 | Public company results dashboard | Reporting and insight (Power BI) | Planned | |
 
