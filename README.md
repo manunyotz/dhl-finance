@@ -8,7 +8,7 @@ A hands-on learning project that simulates the day-to-day finance work of a frei
 
 ## Why I built it
 
-I am an Economics and Statistics graduate (Kenyatta University, 2025) preparing for entry-level finance roles. A finance trainee in logistics is expected to:
+Grounded in Economics and Statistics, I am actively building command over core finance and data operations. My projects and continuous learning focus on mastering the ability to:
 
 - run finance processes such as **Record to Report (RTR)**, **Procure to Pay (PTP)** and **Controlling**,
 - **produce and validate data and numbers**,
